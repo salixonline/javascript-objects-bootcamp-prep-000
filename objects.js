@@ -1,5 +1,5 @@
 var playlist = {
-  Radiohead = "Creep"
+  Radiohead: "Creep"
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
